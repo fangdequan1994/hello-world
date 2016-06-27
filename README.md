@@ -1,2 +1,3 @@
 # hello-world
-traditional code
+hi
+in fact ,i  am an alien!
